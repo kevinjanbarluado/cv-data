@@ -1,7 +1,39 @@
 {
   "name": "Kevin Jan Barluado",
-  "position": "Full-Stack Engineer / Software Developer",
+  "position": "🖥️ Full-Stack Engineer / Software Developer",
   "about": "A full-stack engineer with over a decade of experience in delivering complex projects from design to implementation. Skilled in AWS services, PHP, JavaScript, performance optimization, and software security. Proficient in database design, project management, and team leadership, with experience in Agile methodologies.",
+  "links": [
+    {
+      "url": "https://github.com/kevinjanbarluado",
+      "icon": "devicon-linkedin-plain",
+      "iconColor": "text-blue-700",
+      "bgColor": "bg-blue-100",
+      "title": "LinkedIn"
+    },
+    {
+      "url": "https://github.com/kevinjanbarluado",
+      "icon": "devicon-github-original",
+      "iconColor": "text-gray-800",
+      "bgColor": "bg-gray-100",
+      "title": "GitHub"
+    },
+    {
+      "url": "mailto:kevinjanbarluado2@gmail.com",
+      "icon": "devicon-google-plain",
+      "iconColor": "text-red-600",
+      "bgColor": "bg-red-100",
+      "title": "Email"
+    },
+    {
+      "url": "https://github.com/kevinjanbarluado",
+      "icon": "fas fa-calendar-alt",
+      "iconColor": "text-green-600",
+      "bgColor": "bg-green-100",
+      "title": "Calendly"
+    }
+  ],
+  "iconSize": "text-3xl",
+  "iconSizeContainer": "h-14 w-14 p-3",
   "education": {
     "university": "Ateneo de Davao University",
     "degree": "Bachelor of Science in Information Technology",
