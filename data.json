@@ -20,15 +20,15 @@
     {
       "url": "mailto:kevinjanbarluado2@gmail.com",
       "icon": "devicon-google-plain",
-      "iconColor": "text-blue-600",
-      "bgColor": "bg-blue-100",
+      "iconColor": "text-red-600",
+      "bgColor": "bg-red-100",
       "title": "Email"
     },
     {
       "url": "https://calendly.com/kevinjanbarluado",
       "icon": "fas fa-calendar-alt",
-      "iconColor": "text-green-600",
-      "bgColor": "bg-green-100",
+      "iconColor": "text-purple-600",
+      "bgColor": "bg-purple-100",
       "title": "Book an appointment"
     },
     {
