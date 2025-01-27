@@ -1,0 +1,109 @@
+{
+  "name": "Kevin Jan Barluado",
+  "position": "Full-Stack Developer",
+  "about": "An experienced software engineer with over a decade of experience in both front-end and back-end development, who consistently meets tight deadlines and delivers superior performance. Proven ability to complete complex projects from scratch to design and implementation. Applies innovative planning and analytical skills to inform senior management of key trends, reduce company expenditures and time, and operate with a strong sense of urgency in a fast-paced setting. Able to diagnose and fix glitches to strengthen the security of the software and protect the database. Fluent in English, core competencies include AWS services, web development, web design, database design, software engineering, project management, team management, and research.",
+  "education": {
+    "university": "Ateneo de Davao University",
+    "degree": "Bachelor of Science in Information Technology",
+    "year": "2009 - 2014"
+  },
+  "skills": {
+    "top_skills": [
+      "PHP",
+      "React.js",
+      "Amazon Web Services (AWS)",
+      "Git",
+      "JavaScript"
+    ],
+    "additional_skills": [
+      "MongoDB",
+      "Nuxt.js",
+      "Linux",
+      "SQL",
+      "Joomla!",
+      "Agile Methodologies",
+      "Laravel"
+    ]
+  },
+  "current_position": {
+    "title": "Software Engineer",
+    "company": "Bizmates Philippines, Inc",
+    "type": "Full-time",
+    "duration": "Jun 2024 - Present",
+    "location": "Remote"
+  },
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "company": "Bizmates Philippines, Inc",
+      "type": "Full-time",
+      "duration": "Jun 2024 - Present",
+      "location": "Remote",
+      "responsibilities": [
+        "Developed scalable web applications with Laravel, Vue.js, and Nuxt.js",
+        "Enhanced CI/CD pipelines using Docker, Linux, and AWS",
+        "Collaborated with teams using Agile practices for efficient project delivery"
+      ]
+    },
+    {
+      "title": "Full-Stack Developer",
+      "company": "CoDev",
+      "type": "Full-time",
+      "duration": "Apr 2022 - Mar 2024",
+      "location": "Philippines",
+      "responsibilities": [
+        "Created Web apps from scratch using React and AWS",
+        "Lead and delegate tasks to 4 team members",
+        "Supervise application assessment for quality and design accuracy"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "EliteInsure Limited",
+      "type": "Full-time",
+      "duration": "Dec 2020 - Apr 2022",
+      "location": "Auckland, New Zealand",
+      "responsibilities": [
+        "Maintained Website and improved security measures",
+        "Lead and supervised team of 4 ITs",
+        "Implemented weekly trainings to the development team"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "SASU GHO AHK",
+      "type": "Full-time",
+      "duration": "Apr 2019 - Oct 2020",
+      "location": "Philippines",
+      "responsibilities": [
+        "Maintained existing site and created email campaign program, 2FA",
+        "Developed and maintained inventory system",
+        "Created APIs to increase efficiency"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "EliteInsure Limited",
+      "type": "Full-time",
+      "duration": "Mar 2017 - Feb 2019",
+      "location": "Auckland, New Zealand",
+      "responsibilities": [
+        "Pioneered the development of a payroll system from scratch",
+        "Implemented secure database solutions",
+        "Provided technical support and optimized systems"
+      ]
+    },
+    {
+      "title": "Programmer",
+      "company": "Mathleague.org",
+      "type": "Full-time",
+      "duration": "Mar 2014 - Feb 2017",
+      "location": "Remote",
+      "responsibilities": [
+        "Developed and maintained competition systems",
+        "Automated data processing tasks",
+        "Improved platform performance and user experience"
+      ]
+    }
+  ]
+}
