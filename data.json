@@ -8,6 +8,23 @@
     "year": "2009 - 2014"
   },
   "skills": {
+    "devicon_skills": [
+      { "name": "Laravel", "icon": "devicon-laravel-plain colored" },
+      {
+        "name": "AWS",
+        "icon": "devicon-amazonwebservices-plain-wordmark colored"
+      },
+      { "name": "React", "icon": "devicon-react-original colored" },
+      { "name": "GitHub", "icon": "devicon-github-original colored" },
+      { "name": "Docker", "icon": "devicon-docker-plain colored" },
+      { "name": "MySQL", "icon": "devicon-mysql-plain colored" },
+      { "name": "Node.js", "icon": "devicon-nodejs-plain colored" },
+      { "name": "PHP", "icon": "devicon-php-plain colored" },
+      { "name": "Linux", "icon": "devicon-linux-plain colored" },
+      { "name": "Nuxt.js", "icon": "devicon-nuxtjs-plain colored" },
+      { "name": "Svelte", "icon": "devicon-svelte-plain colored" },
+      { "name": "Tailwind", "icon": "devicon-tailwindcss-original colored" }
+    ],
     "top_skills": [
       "PHP",
       "React.js",
