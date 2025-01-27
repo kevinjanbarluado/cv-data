@@ -4,7 +4,7 @@
   "about": "A full-stack engineer with over a decade of experience in delivering complex projects from design to implementation. Skilled in AWS services, PHP, JavaScript, performance optimization, and software security. Proficient in database design, project management, and team leadership, with experience in Agile methodologies.",
   "links": [
     {
-      "url": "https://github.com/kevinjanbarluado",
+      "url": "https://www.linkedin.com/in/kevin-jan-barluado/",
       "icon": "devicon-linkedin-plain",
       "iconColor": "text-blue-700",
       "bgColor": "bg-blue-100",
@@ -20,16 +20,23 @@
     {
       "url": "mailto:kevinjanbarluado2@gmail.com",
       "icon": "devicon-google-plain",
-      "iconColor": "text-red-600",
-      "bgColor": "bg-red-100",
+      "iconColor": "text-blue-600",
+      "bgColor": "bg-blue-100",
       "title": "Email"
     },
     {
-      "url": "https://github.com/kevinjanbarluado",
+      "url": "https://calendly.com/kevinjanbarluado",
       "icon": "fas fa-calendar-alt",
       "iconColor": "text-green-600",
       "bgColor": "bg-green-100",
-      "title": "Calendly"
+      "title": "Book an appointment"
+    },
+    {
+      "url": "https://wa.me/639569406669",
+      "icon": "fas fa-brands fa-whatsapp",
+      "iconColor": "text-green-600",
+      "bgColor": "bg-green-100",
+      "title": "Whatsapp"
     }
   ],
   "iconSize": "text-3xl",
