@@ -1,12 +1,79 @@
 {
   "name": "Kevin Jan Barluado",
-  "position": "Full-Stack Developer",
-  "about": "An experienced software engineer with over a decade of experience in both front-end and back-end development, who consistently meets tight deadlines and delivers superior performance. Proven ability to complete complex projects from scratch to design and implementation. Applies innovative planning and analytical skills to inform senior management of key trends, reduce company expenditures and time, and operate with a strong sense of urgency in a fast-paced setting. Able to diagnose and fix glitches to strengthen the security of the software and protect the database. Fluent in English, core competencies include AWS services, web development, web design, database design, software engineering, project management, team management, and research.",
+  "position": "Full-Stack Engineer / Software Developer",
+  "about": "A full-stack engineer with over a decade of experience in delivering complex projects from design to implementation. Skilled in AWS services, PHP, JavaScript, performance optimization, and software security. Proficient in database design, project management, and team leadership, with experience in Agile methodologies.",
   "education": {
     "university": "Ateneo de Davao University",
     "degree": "Bachelor of Science in Information Technology",
     "year": "2009 - 2014"
   },
+  "certificates": [
+    {
+      "name": "AWS Fargate and ECS - Masterclass",
+      "issuer": "Udemy",
+      "issued_date": "Jan 2025",
+      "skills": ["ECS", "Fargate", "docker"]
+    },
+    {
+      "name": "Ultimate AWS Certified Cloud Practitioner CLF-C02 2025",
+      "issuer": "Udemy",
+      "issued_date": "Jan 2025",
+      "skills": ["Amazon Web Services (AWS)"]
+    },
+    {
+      "name": "Agile Software Development: Clean Coding Practices",
+      "issuer": "LinkedIn",
+      "issued_date": "Oct 2024",
+      "credential_id": "22f28deffff81da60b36cea31fb6a579b88376d79689d6e3c308195e34fff551"
+    },
+    {
+      "name": "Learning NGINX Web Server from Zero to Hero",
+      "issuer": "Udemy",
+      "issued_date": "Oct 2024"
+    },
+    {
+      "name": "Scrum Master Training",
+      "issuer": "Alison",
+      "issued_date": "Oct 2024",
+      "credential_id": "3395-43455976"
+    },
+    {
+      "name": "Microservices with Node JS and React",
+      "issuer": "Udemy",
+      "issued_date": "Sep 2023"
+    },
+    {
+      "name": "ChatGPT Unleashed: Revolutionizing Conversations in the Digital Age",
+      "issuer": "CoDev",
+      "issued_date": "Jun 2023"
+    },
+    {
+      "name": "Building Your First Vue.js Application",
+      "issuer": "CoDev",
+      "issued_date": "Mar 2023"
+    },
+    {
+      "name": "Learn Hacking Using Social Engineering",
+      "issuer": "Udemy",
+      "issued_date": "Nov 2022"
+    },
+    {
+      "name": "AWS Innovate",
+      "issuer": "Amazon Web Services (AWS)",
+      "issued_date": "Oct 2022"
+    },
+    {
+      "name": "HIPAA Awareness training certification",
+      "issuer": "Awareness & Training - Online HIPAA Training",
+      "issued_date": "Apr 2021",
+      "expired_date": "Apr 2023"
+    },
+    {
+      "name": "Security Awareness",
+      "issuer": "Wizer - Free Security Awareness Training",
+      "issued_date": "Apr 2021"
+    }
+  ],
   "skills": {
     "devicon_skills": [
       { "name": "Laravel", "icon": "devicon-laravel-plain colored" },
