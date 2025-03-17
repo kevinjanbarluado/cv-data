@@ -1,6 +1,6 @@
 {
   "name": "Kevin Jan Barluado",
-  "location":"Davao City, Philippines",
+  "location": "Davao City, Philippines",
   "email": "kevinjanbarluado2@gmail.com",
   "phone": "+63 956 940 6669",
   "position": "Full-Stack Engineer / Software Developer",
@@ -50,6 +50,23 @@
     "year": "2009 - 2014"
   },
   "certificates": [
+    {
+      "name": "IELTS General Training CEFR C1 - Overall Band 7.5 (L: 8.5 | R: 7.5 | W: 7 | S: 7)",
+      "issuer": "British Council",
+      "issued_date": "Mar 2025",
+      "expired_date": "Mar 2027",
+      "skills": ["English as a Second Language (ESL)"]
+    },
+    {
+      "name": "Terraform The Complete Guide from Beginner to Expert",
+      "issuer": "Udemy",
+      "issued_date": "Feb 2025",
+      "skills": [
+        "Terraform",
+        "Amazon Web Services (AWS)",
+        "AWS Command Line Interface (CLI)"
+      ]
+    },
     {
       "name": "AWS Fargate and ECS - Masterclass",
       "issuer": "Udemy",
